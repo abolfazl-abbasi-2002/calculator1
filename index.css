@@ -8,7 +8,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #eee;
+  color: #e1e1e1;
 }
 /* icon */
 i {
@@ -33,6 +33,7 @@ i {
   height: 380px;
   background-color: #1b1c1c;
   padding: 0 5px;
+  font-family:tahoma;
 }
 .m-hesab input {
   color: white;
