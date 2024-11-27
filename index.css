@@ -9,6 +9,7 @@ body {
   align-items: center;
   justify-content: center;
   color: #e1e1e1;
+  background:linear-gradient(90deg,#04e5e5,#08e33f);
 }
 /* icon */
 i {
